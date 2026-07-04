@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  align-self: center;
+  width: fit-content;
+  color: blue;
+  justify-content: center;
+}
+.header {
+  width: 700px;
+  height: 100px;
+  margin: auto;
+  padding: 15px;
+  border-radius: 30px;
+  background-color: pink;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
